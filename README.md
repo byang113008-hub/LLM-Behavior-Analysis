@@ -122,6 +122,11 @@ A successful response path is not merely accurate. It preserves user intent, rec
 
 [Read Case 4](docs/case-04-stabilization-and-task-recovery.md)
 
+### Conclusion
+A concise statement of the repository’s final claim and limits.
+
+[Read Conclusion](docs/conclusion.md)
+
 ## Core Through-Line
 
 The cases differ in topic, but they all turn on the same deeper question:

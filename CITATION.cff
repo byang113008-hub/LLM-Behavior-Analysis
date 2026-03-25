@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use, discuss, or cite this work, please cite it as follows."
+title: "LLM Behavior Analysis: Response-Path Selection Under Human Context"
+type: software
+authors:
+  - family-names: "Yang"
+    given-names: "Brian"
+repository-code: "https://github.com/byang113008-hub/LLM-Behavior-Analysis"
+license: "CC-BY-4.0"
+abstract: >
+  A set of evidence-based case studies documenting response-path selection,
+  failure modes, authority framing, and stabilization in live multi-turn
+  interaction with ChatGPT.
+keywords:
+  - llm
+  - chatbot
+  - alignment
+  - evaluation
+  - human-ai interaction
+  - safety
+  - response-path selection
+  - authority framing
+  - stabilization
+version: "1.0.0"
+date-released: 2026-03-24
+url: "https://github.com/byang113008-hub/LLM-Behavior-Analysis"

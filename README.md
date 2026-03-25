@@ -1,5 +1,9 @@
 # LLM Behavior Analysis: Response-Path Selection Under Human Context
 
+## Abstract
+
+This repository documents a set of behavioral case studies in live multi-turn interaction with ChatGPT. Rather than treating assistant quality as a matter of factual correctness alone, the analysis focuses on response-path selection: why one plausible response path is chosen over others, how specific failure modes are activated or suppressed, and what those choices do to the user’s subsequent trajectory. The cases identify distinct mechanisms including context-segmentation failure, unnecessary deflation, escalation under uncertainty through self-authorizing rhetoric, authority framing, and successful task recovery under emotional distress. The broader claim is that response-path selection under live human context is an under-formalized but essential layer of assistant alignment.
+
 ## Overview
 
 This repository documents a set of recurring patterns observed in live multi-turn interaction with a deployed language model.

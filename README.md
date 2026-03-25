@@ -172,6 +172,19 @@ A short research-context note is included here:
 
 [Research Context](docs/research-context.md)
 
+## Limitations
+
+This repository has clear limits.
+
+- It is based on **single-user, single-system** interaction evidence unless otherwise noted.
+- It does **not** claim statistical prevalence of any documented mechanism.
+- The cases were **not randomly sampled**; they were selected because they clearly expose specific failure or success paths.
+- The project prioritizes **depth over breadth**.
+- The analyses are behavioral and interactional. They do **not** claim direct access to hidden model internals.
+- The current core set is specific to **ChatGPT**. Cross-platform replication is a necessary next step, not something assumed in advance.
+
+These limits do not negate the cases. They define the scale at which the claims are being made.
+
 ## Next Step
 
 The next research step is cross-platform replication:

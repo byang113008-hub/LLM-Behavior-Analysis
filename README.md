@@ -1,4 +1,4 @@
-# LLM Behavior Analysis: Response-Path Selection Under Human Context
+# Interaction-Level Alignment: Case Studies in Live LLM Behavior
 
 ## Abstract
 
